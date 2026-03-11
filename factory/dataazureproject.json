@@ -1,0 +1,9 @@
+{
+	"name": "dataazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b9dc778-5369-45bb-b89e-d85249e0bc59",
+		"tenantId": "2a321059-9ff4-4c61-a0fc-a95be6d81ed1"
+	}
+}
